@@ -20,3 +20,4 @@ This project simulates a deformable object made from particles connected by spri
   ```bash
   python main.py
   ```
+- move with wasd
